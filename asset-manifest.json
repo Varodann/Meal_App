@@ -1,15 +1,15 @@
 {
-  "main.css": "/Meal_App/home/static/css/main.5dbce2c5.chunk.css",
-  "main.js": "/Meal_App/home/static/js/main.1b4ae3d2.chunk.js",
-  "main.js.map": "/Meal_App/home/static/js/main.1b4ae3d2.chunk.js.map",
-  "static/css/1.7ed47ce4.chunk.css": "/Meal_App/home/static/css/1.7ed47ce4.chunk.css",
-  "static/js/1.2119462b.chunk.js": "/Meal_App/home/static/js/1.2119462b.chunk.js",
-  "static/js/1.2119462b.chunk.js.map": "/Meal_App/home/static/js/1.2119462b.chunk.js.map",
-  "runtime~main.js": "/Meal_App/home/static/js/runtime~main.2f38ad95.js",
-  "runtime~main.js.map": "/Meal_App/home/static/js/runtime~main.2f38ad95.js.map",
-  "static/css/1.7ed47ce4.chunk.css.map": "/Meal_App/home/static/css/1.7ed47ce4.chunk.css.map",
-  "static/css/main.5dbce2c5.chunk.css.map": "/Meal_App/home/static/css/main.5dbce2c5.chunk.css.map",
-  "index.html": "/Meal_App/home/index.html",
-  "precache-manifest.ffb49702104f12b7782c412933b2c920.js": "/Meal_App/home/precache-manifest.ffb49702104f12b7782c412933b2c920.js",
-  "service-worker.js": "/Meal_App/home/service-worker.js"
+  "main.css": "/Meal_App/static/css/main.5dbce2c5.chunk.css",
+  "main.js": "/Meal_App/static/js/main.1b4ae3d2.chunk.js",
+  "main.js.map": "/Meal_App/static/js/main.1b4ae3d2.chunk.js.map",
+  "static/css/1.7ed47ce4.chunk.css": "/Meal_App/static/css/1.7ed47ce4.chunk.css",
+  "static/js/1.2119462b.chunk.js": "/Meal_App/static/js/1.2119462b.chunk.js",
+  "static/js/1.2119462b.chunk.js.map": "/Meal_App/static/js/1.2119462b.chunk.js.map",
+  "runtime~main.js": "/Meal_App/static/js/runtime~main.c54b8388.js",
+  "runtime~main.js.map": "/Meal_App/static/js/runtime~main.c54b8388.js.map",
+  "static/css/main.5dbce2c5.chunk.css.map": "/Meal_App/static/css/main.5dbce2c5.chunk.css.map",
+  "static/css/1.7ed47ce4.chunk.css.map": "/Meal_App/static/css/1.7ed47ce4.chunk.css.map",
+  "index.html": "/Meal_App/index.html",
+  "precache-manifest.09ea28347b492e8b268f2ee3688d4124.js": "/Meal_App/precache-manifest.09ea28347b492e8b268f2ee3688d4124.js",
+  "service-worker.js": "/Meal_App/service-worker.js"
 }
