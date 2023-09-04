@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <Routes>
-        <Route path="/" element={<Form />} />
+        <Route path="/home" element={<Form />} />
         <Route path="/recipe/:id" element={<FormWithOneRecipe />} />
     </Routes>
   );

@@ -73,7 +73,7 @@ const FormWithOneRecipe = () => {
                     <p>Loading recipe...</p>
                 )}
                 <p>
-                    <Link to={`/`}>Home</Link>
+                    <Link to={`/home`}>Home</Link>
                 </p>
             </main>
             <footer className="footer">
