@@ -1,0 +1,22 @@
+
+.recipe-search-form {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.my-custom-btn {
+    border: none;
+    border-radius:8px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    margin-bottom: 20px;
+}
+
+.my-custom-btn:hover {
+    background-color: #45a049;
+}
