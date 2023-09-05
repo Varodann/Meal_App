@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {Link, useParams} from 'react-router-dom';
 import {useGetOneRecipe} from '../hooks/useGetOneRecipe';
 import {Container} from 'reactstrap';
@@ -6,13 +6,14 @@ import './FormWithOneRecipe.css';
 
 const FormWithOneRecipe = () => {
     const { id } = useParams();
-    const { recipe } = useGetOneRecipe(id);
+    const { fetchOneRecipe, recipe } = useGetOneRecipe(id);
 
-    // useEffect(() => {
-    //     if (id) {
-    //         fetchOneRecipe().then(r => console.log(r));
-    //     }
-    // }, [id]);
+    useEffect(() => {
+        if (id) {
+            fetchOneRecipe().then(r => console.log(r));
+        }
+        // eslint-disable-next-line
+    }, [id]);
 
     const renderIngredients = () => {
         if (!recipe.extendedIngredients || recipe.extendedIngredients.length === 0) {
